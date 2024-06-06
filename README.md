@@ -1,6 +1,10 @@
-## Hi there 👋
+## oii meu nome é Maria 
+meu email é
+mariaeduardalazaroferreira006@gmail.com 
+e estou desenvolvendo projetos na aula de tecnologia 
 
-<!--
+
+<no--
 **mariaedu998/mariaedu998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
